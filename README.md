@@ -1,60 +1,60 @@
+<!-- Animated Wave Header -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00f7ff&height=200&section=header&text=Parv%20Suhagiya&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
 <h1 align="center">Hi 👋, I'm Parv 🚀</h1>
-<h3 align="center">MERN Stack Developer | Building Scalable Web Apps | Exploring AI 🤖</h3>
+<h3 align="center">MERN Stack Developer | AI Explorer 🤖</h3>
+
+<!-- Typing Animation -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Building+DevNetwork;Exploring+AI+Workflows;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+DevNetwork;Exploring+AI+Workflows;Open+Source+Contributor" />
+</p>
+
+<!-- Coding GIF -->
+
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400"/>
 </p>
 
 ---
 
 ## 🚀 About Me
-- 💡 Passionate about building **real-world scalable applications**
-- 🔥 Love solving problems & optimizing systems
-- 🤖 Exploring **AI workflows & automation**
-- 👯 Open to **collaborations & open-source contributions**
+
+💡 I build **real-world scalable apps**
+🔥 Love **problem solving & system design**
+🤖 Exploring **AI + Automation workflows**
+🚀 Open to **collaboration & open source**
 
 ---
 
 ## 🧠 Currently Working On
-- 🔭 **DevNetwork** – Developer Collaboration Platform  
-- 🌱 Learning **Authentication (JWT, OAuth)**  
-- 🤖 Exploring **AI Workflows & Automation**
+
+* 🔭 DevNetwork – Developer Collaboration Platform
+* 🌱 Authentication (**JWT, OAuth**)
+* 🤖 AI Workflows & Automation
 
 ---
 
-## 🌐 Live Projects
+## 🌐 Projects
 
 ### 🔹 DevNetwork
-🚀 Developer collaboration platform  
-👉 **Live:** (add deployed link)  
-👉 **Code:** (add repo link)  
 
-### 🔹 Portfolio Website
-💼 Personal portfolio showcasing my work  
-👉 **Live:** (your portfolio link)  
+🚀 Developer collaboration platform
+👉 Live: (add link)
+👉 Code: (add repo)
+
+### 🔹 Portfolio
+
+💼 Personal portfolio
+👉 Live: (your link)
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,redux" />
-</p>
-
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
-
-### 🧰 Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,redux,nodejs,express,mongodb,git,github,postman" />
 </p>
 
 ---
@@ -62,16 +62,24 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ParvSuhagiya&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParvSuhagiya&theme=tokyonight" height="160"/>
 </p>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ParvSuhagiya&theme=tokyo-night" />
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ParvSuhagiya/ParvSuhagiya/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -79,29 +87,41 @@
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="YOUR_PORTFOLIO"><img src="https://skillicons.dev/icons?i=vercel" /></a>
-  <a href="YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" /></a>
-  <a href="YOUR_YOUTUBE"><img src="https://skillicons.dev/icons?i=youtube" /></a>
-  <a href="YOUR_X"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter" /></a>
+  <a href="https://www.linkedin.com/in/parv-suhagiya-86259b37b/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://leetcode.com/u/ParvSuhagiya/">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+  <a href="https://www.youtube.com/@parvsuhagiya-o1j">
+    <img src="https://skillicons.dev/icons?i=youtube" />
+  </a>
+  <a href="https://x.com/ParvSuhagiya">
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter" />
+  </a>
 </p>
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Fun Section
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 </p>
 
 💡 *I love building products that people actually use 🚀*
 
 ---
 
-## 🔥 Visitor Counter
+## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=ParvSuhagiya&label=Visitors&color=00f7ff&style=flat" />
 </p>
 
 ---
+
+<!-- Footer Wave -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:2c5364,100:0f2027&height=120&section=footer"/>
