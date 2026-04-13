@@ -7,6 +7,17 @@
 
 <!-- Typing Animation -->
 
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ParvSuhagiya&label=Visitors&color=00f7ff&style=flat" />
+</p>
+
+---
+
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+DevNetwork;Exploring+AI+Workflows;Open+Source+Contributor" />
 </p>
@@ -33,23 +44,6 @@
 * 🔭 DevNetwork – Developer Collaboration Platform
 * 🌱 Authentication (**JWT, OAuth**)
 * 🤖 AI Workflows & Automation
-
----
-
-## 🌐 Projects
-
-### 🔹 DevNetwork
-
-🚀 Developer collaboration platform
-👉 Live: (add link)
-👉 Code: (add repo)
-
-### 🔹 Portfolio
-
-💼 Personal portfolio
-👉 Live: (your link)
-
----
 
 ## 🛠️ Tech Stack
 
@@ -112,15 +106,7 @@
 
 💡 *I love building products that people actually use 🚀*
 
----
 
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ParvSuhagiya&label=Visitors&color=00f7ff&style=flat" />
-</p>
-
----
 
 <!-- Footer Wave -->
 
