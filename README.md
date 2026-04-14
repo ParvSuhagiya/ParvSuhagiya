@@ -62,16 +62,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ParvSuhagiya&theme=tokyo-night" />
 </p>
 
----
-
-## 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ParvSuhagiya/ParvSuhagiya/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 🔗 Connect With Me
 
 <p align="center">
