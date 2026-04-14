@@ -39,12 +39,6 @@
 
 ---
 
-## 🧠 Currently Working On
-
-* 🔭 DevNetwork – Developer Collaboration Platform
-* 🌱 Authentication (**JWT, OAuth**)
-* 🤖 AI Workflows & Automation
-
 ## 🛠️ Tech Stack
 
 <p align="center">
