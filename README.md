@@ -39,6 +39,25 @@
 
 ---
 
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/parv-suhagiya-86259b37b/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://leetcode.com/u/ParvSuhagiya/">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+  <a href="https://www.youtube.com/@parvsuhagiya-o1j">
+    <img src="https://skillicons.dev/icons?i=youtube" />
+  </a>
+  <a href="https://x.com/ParvSuhagiya">
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter" />
+  </a>
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -62,24 +81,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ParvSuhagiya&theme=tokyo-night" />
 </p>
 
-## 🔗 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/parv-suhagiya-86259b37b/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://leetcode.com/u/ParvSuhagiya/">
-    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" />
-  </a>
-  <a href="https://www.youtube.com/@parvsuhagiya-o1j">
-    <img src="https://skillicons.dev/icons?i=youtube" />
-  </a>
-  <a href="https://x.com/ParvSuhagiya">
-    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter" />
-  </a>
-</p>
-
----
 
 ## ⚡ Fun Section
 
