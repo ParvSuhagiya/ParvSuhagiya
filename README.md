@@ -159,11 +159,13 @@ open_to:     Collaboration · Open Source · Full-time roles
 <!-- ================= WEEKLY DEV STATS ================= -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Alarm%20Clock.png" width="28"/> Weekly Coding Activity
 
+<!--START_SECTION:waka-->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ParvSuhagiya&hide_border=true&bg_color=0f172a&title_color=38BDF8&text_color=cbd5e1&layout=compact" />
 </p>
+<!--END_SECTION:waka-->
 
-> Connect [WakaTime](https://wakatime.com/) to your editor and link your username here to show real weekly coding-hour breakdowns by language.
+> Connect [WakaTime](https://wakatime.com/) to your editor and set up the Action below — once it runs, it'll auto-replace everything between the `waka` markers above with your real weekly stats.
 
 <br/>
 
